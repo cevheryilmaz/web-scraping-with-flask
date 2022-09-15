@@ -7,3 +7,9 @@ Project is created with:
 * NLP(Nltk library)
 * Flask
 * BeautifulSoup
+
+## Setup
+To run this project, install it locally:
+$ cd Project Path
+$ flask run or app.run()
+
