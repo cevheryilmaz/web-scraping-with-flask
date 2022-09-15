@@ -10,6 +10,8 @@ Project is created with:
 
 ## Setup
 To run this project, install it locally:
+
+```
 $ cd Project Path
 $ flask run or app.run()
-
+```
