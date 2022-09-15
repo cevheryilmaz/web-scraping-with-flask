@@ -12,6 +12,6 @@ Project is created with:
 To run this project, install it locally:
 
 ```
-$ cd Project Path
+$ cd [Project Path]
 $ flask run or app.run()
 ```
